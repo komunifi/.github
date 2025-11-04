@@ -18,17 +18,6 @@ To provide creators with everything they need to build, nurture, and scale their
 
 We're currently in active development, building the foundation for the next generation of creator tools. Stay tuned for updates!
 
-## 🤝 Community
-
-We believe in building in the open and fostering a welcoming community:
-- **Contributing**: Check out our [Contributing Guidelines](https://github.com/komunifi/.github/blob/main/CONTRIBUTING.md)
-- **Code of Conduct**: We're committed to providing a welcoming and inspiring community for all. Read our [Code of Conduct](https://github.com/komunifi/.github/blob/main/CODE_OF_CONDUCT.md)
-- **Support**: Need help? Check our [Support Resources](https://github.com/komunifi/.github/blob/main/SUPPORT.md)
-
-## 🔐 Security
-
-Security is important to us. If you discover a security vulnerability, please see our [Security Policy](https://github.com/komunifi/.github/blob/main/SECURITY.md) for how to report it responsibly.
-
 ---
 
 > Built for creators. Powered by Komunifi.
